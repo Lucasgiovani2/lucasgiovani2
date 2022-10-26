@@ -2,6 +2,7 @@
 Hi guys! Me chamo Lucas e sou estudante de análise e desenvolvimento de sistemas.
 
 
+- 😁 Atualmente estou começando estudar (HTML,CSS,JavaScript e suas bibliotecas/frameworks). Também já tive bastante contato com C.
 - 🌱 Estudando html, css e javascript
 - 😄 Pronouns: ele/dele
 
