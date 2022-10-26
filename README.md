@@ -1,4 +1,6 @@
 ### Ola! eu sou Lucas Giovani
+Hi guys! Me chamo Lucas e sou estudante de análise e desenvolvimento de sistemas.
+
 
 - 🌱 Estudando html, css e javascript
 - 😄 Pronouns: ele/dele
