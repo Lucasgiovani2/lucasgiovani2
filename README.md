@@ -18,3 +18,9 @@ Hi guys! Me chamo Lucas e sou estudante de análise e desenvolvimento de sistema
   ##
   
   ![Snake animation](https://github.com/lucasgiovani2/lucasgiovani2/blob/output/github-contribution-grid-snake.svg)
+  
+  <div>
+   <a href="https://www.linkedin.com/in/lucas-giovani-5b0068235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href ="lucas.profissionalti@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    
+  </div>
